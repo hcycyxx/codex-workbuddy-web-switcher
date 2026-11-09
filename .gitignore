@@ -1,0 +1,6 @@
+data/
+.env
+*.log
+node_modules/
+test-results/
+.runtime/
