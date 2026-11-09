@@ -4,6 +4,12 @@
 
 > **前置条件**：Node.js 22+；接入账号需要 WorkBuddy 官方客户端已登录，或在账号页通过官方授权页扫码。程序不提供账号，也不绕过上游计费。
 
+## 直接使用
+
+[下载 Windows 便携包](https://github.com/hcycyxx/codex-workbuddy-web-switcher/releases/download/v1.0.0/codex-workbuddy-web-switcher-v1.0.0-windows-portable.zip)，解压后双击 `Start.cmd`。停止时双击 `Stop.cmd`，或点击网页右上角“停止服务”。
+
+便携包包含完整运行源码和启动入口，不包含 Node.js、账号数据或运行记录。GitHub Release 同时提供自动生成的源码包。
+
 ## 启动
 
 在 PowerShell 中执行：

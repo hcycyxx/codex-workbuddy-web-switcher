@@ -1,6 +1,7 @@
 data/
 .env
 *.log
+*.zip
 node_modules/
 test-results/
 .runtime/
